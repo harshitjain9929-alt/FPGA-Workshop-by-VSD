@@ -5,9 +5,11 @@ This project presents a complete flow of digital design starting from Register T
 
 The objective is to understand how a behavioral hardware description is translated into a physical implementation using standard cell libraries and how correctness is ensured through simulation at different stages. The project is divided into two modules: RTL simulation and waveform analysis, and logic synthesis with timing and optimization concepts.
 
-Tools Used
+Tools Used<img width="1600" height="791" alt="WhatsApp Image 2026-05-03 at 20 48 15 (2)" src="://github.com/user-attachments/assets/19ac4ece-8f55-439a-929a-78a94158da44" />
+<img width="1600" height="791" alt="WhatsApp Image 2026-05-03 at 20 48 15 (2)" src="https://github.com/user-attachments/assets/d1d34236-62b7-42ce-ae2b-8efa4ffb2714" />
+
 Icarus Verilog (iverilog) – Verilog compiler and simulator
-GTKWave – Waveform viewer
+GTKWave – Waveform viewerhttps
 Yosys – Logic synthesis tool
 ABC – Technology mapping
 Sky130 Standard Cell Library (.lib) – Timing and gate library
