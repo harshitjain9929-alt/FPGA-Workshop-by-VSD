@@ -60,7 +60,7 @@ RTL Design + Testbench
   <img src="WhatsApp Image 2026-05-03 at 22.58.03.jpeg" width="600" title="Simulation Waveform">
 </p>
 ->DESIGN
-<img src="Images/WhatsApp Image 2026-05-03 at 22.58.05.jpeg" width="600" title="Simulation Waveform">
+<img src="WhatsApp Image 2026-05-03 at 22.58.05.jpeg" width="600" title="Simulation Waveform">
 </p>
 
 Observation:
@@ -72,7 +72,7 @@ Observation:
 
 ## Multiple Modules – RTL Desgin
    <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.06.jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.06.jpeg" width="600" title="Simulation Waveform">
 </p>
 
 
@@ -174,11 +174,11 @@ Thold < Tcq + Tcomb
   
  -> WAVEFORM
 <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.05 (2).jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.05 (2).jpeg" width="600" title="Simulation Waveform">
 </p>
 ->DESIGN
 <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.07.jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.07.jpeg" width="600" title="Simulation Waveform">
 </p>
 
 ### Asynchronous Set
@@ -188,11 +188,11 @@ Thold < Tcq + Tcomb
   
  -> WAVEFORM
    <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.08 (1).jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.08 (1).jpeg" width="600" title="Simulation Waveform">
 </p>
   ->DESIGN
    <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.11.jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.11.jpeg" width="600" title="Simulation Waveform">
 </p>
 
 ### Synchronous Reset
@@ -203,11 +203,11 @@ Output becomes 0
 
 -> WAVEFORM
    <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.07 (1).jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.07 (1).jpeg" width="600" title="Simulation Waveform">
 </p>
   ->DESIGN
    <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.10 (1).jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.10 (1).jpeg" width="600" title="Simulation Waveform">
 </p>
 
   
@@ -215,7 +215,7 @@ Output becomes 0
 
 => mul2 (y = a * 2)
       <p align="">
-  <img src="Images/WhatsApp Image 2026-05-04 at 01.05.48.jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-04 at 01.05.48.jpeg" width="600" title="Simulation Waveform">
 </p>
 
 Observations:
@@ -228,7 +228,7 @@ Observations:
     
  => mul8 (y = a * 8)
    <p align="">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.09.jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.09.jpeg" width="600" title="Simulation Waveform">
 </p>
         
 
