@@ -57,7 +57,7 @@ RTL Design + Testbench
 
  GTKWave Output
    <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.03.jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.03.jpeg" width="600" title="Simulation Waveform">
 </p>
 ->DESIGN
 <img src="Images/WhatsApp Image 2026-05-03 at 22.58.05.jpeg" width="600" title="Simulation Waveform">
