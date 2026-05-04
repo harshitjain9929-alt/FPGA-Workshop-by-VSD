@@ -154,8 +154,8 @@ Typically results in improved timing and area efficiency
 However, it increases computational complexity, leading to longer synthesis time and more difficult debugging
 ---
 
-| Parameter    | Hierarchical Synthesis | Flat Synthesis     |
-| ------------ | ---------------------- | ------------------ |
+| parameters    | Hierarchical Synthesised | Flat Synthesis     |
+|              |                        |                    |
 | Runtime      | Faster                 | Slower             |
 | Optimization | Limited                |       Extensive  |
 | Debugging    | Simpler                | More complex       |
