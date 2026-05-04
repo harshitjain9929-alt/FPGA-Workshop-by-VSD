@@ -2,14 +2,14 @@
 
 ## Tools used:
 
-- Icarus Verilog (iverilog)
+- icarus Verilog (iverilog)
 - GTKWave
-- Yosys
+- yosys
 - ABC
 - SKY130 Standard Cell Library
 - GVim / Vim
-- Dot Viewer (yosys_show / xdot)
-- Oracle VirtualBox
+- dot Viewer (yosys_show / xdot)
+- oracle VirtualBox
 - GitHub
 
 flowchart LR
@@ -33,10 +33,10 @@ flowchart LR
 
  GTKWave Output
    <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.03.jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.03.jpeg" width="600" title="Simulation Waveform">
 </p>
 ->DESIGN
-<img src="Images/WhatsApp Image 2026-05-03 at 22.58.05.jpeg" width="600" title="Simulation Waveform">
+<img src="WhatsApp Image 2026-05-03 at 22.58.05.jpeg" width="600" title="Simulation Waveform">
 </p>
 
 Observation:
@@ -48,7 +48,7 @@ Observation:
 
 ## Multiple Modules – RTL Desgin
    <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.06.jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.06.jpeg" width="600" title="Simulation Waveform">
 </p>
 
 
@@ -162,46 +162,46 @@ However, it increases computational complexity, leading to longer synthesis time
 
 
 ### Asynchronous reset
-- Reset acts independent of clock
-- Whenever reset = 1, output immediately becomes 0
-- No need to wait for clock edge
+- Reset act as independent of clock
+- Whenever we reset = 1, output immediately becomes 0
+- No need to  wait fOr clock edge
   
  -> WAVEFORM
 <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.05 (2).jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.05 (2).jpeg" width="600" title="Simulation Waveform">
 </p>
 ->DESIGN
 <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.07.jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.07.jpeg" width="600" title="Simulation Waveform">
 </p>
 
 ### Asynchronous Set
-- Set works independent of clock
+- Set work independent of Clock
 - Whenever set = 1, output immediately becomes 1
-- No dependency on clock signal
+- No dependency On clock signal
   
  -> WAVEFORM
    <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.08 (1).jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.08 (1).jpeg" width="600" title="Simulation Waveform">
 </p>
   ->DESIGN
    <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.11.jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.11.jpeg" width="600" title="Simulation Waveform">
 </p>
 
 ### Synchronous Reset
-- Reset works only on clock edge
-- Output changes only at posedge of clock
+- Reset work Only On clock edge
+- Output changes Only at pos-edge of clock
 - If reset = 1, then on next clock:
 Output becomes 0
 
 -> WAVEFORM
    <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.07 (1).jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.07 (1).jpeg" width="600" title="Simulation Waveform">
 </p>
   ->DESIGN
    <p align="center">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.10 (1).jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.10 (1).jpeg" width="600" title="Simulation Waveform">
 </p>
 
   
@@ -209,7 +209,7 @@ Output becomes 0
 
 => mul2 (y = a * 2)
       <p align="">
-  <img src="Images/WhatsApp Image 2026-05-04 at 01.05.48.jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-04 at 01.05.48.jpeg" width="600" title="Simulation Waveform">
 </p>
 
 Observations:
@@ -222,7 +222,7 @@ Observations:
     
  => mul8 (y = a * 8)
    <p align="">
-  <img src="Images/WhatsApp Image 2026-05-03 at 22.58.09.jpeg" width="600" title="Simulation Waveform">
+  <img src="WhatsApp Image 2026-05-03 at 22.58.09.jpeg" width="600" title="Simulation Waveform">
 </p>
         
 
